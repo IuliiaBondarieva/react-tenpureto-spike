@@ -1,0 +1,6 @@
+variables:
+  Project name: basic-react-template
+  Description: Project description
+features:
+  - basic-template:
+      description: Basic react template
