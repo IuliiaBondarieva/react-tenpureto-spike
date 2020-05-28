@@ -4,3 +4,5 @@ variables:
 features:
   - basic:
       description: Basic react template
+excludes:
+  - /.github
