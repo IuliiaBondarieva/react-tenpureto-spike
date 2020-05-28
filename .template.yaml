@@ -6,3 +6,7 @@ features:
       description: Basic react template
   - with-store:
       description: Adds store
+conflicts:
+  - with-storybook
+excludes:
+  - /.github
