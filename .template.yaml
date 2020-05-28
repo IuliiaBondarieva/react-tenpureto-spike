@@ -6,3 +6,7 @@ features:
       description: Basic react template
   - with-storybook:
       description: Storybook integration in react basic template
+conflicts:
+  - with-store
+excludes:
+  - /.github
